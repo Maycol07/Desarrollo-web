@@ -41,8 +41,8 @@
   <section id="topbar" class="d-flex align-items-center">
     <div class="container d-flex justify-content-center justify-content-md-between">
       <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:contact@example.com">contact@example.com</a></i>
-        <i class="bi bi-phone d-flex align-items-center ms-4"><span>+1 5589 55488 55</span></i>
+        <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:contact@example.com">Maycolclaudiopinedo@gmail.com</a></i>
+        <i class="bi bi-phone d-flex align-items-center ms-4"><span>+51 916183260</span></i>
       </div>
       <div class="social-links d-none d-md-flex align-items-center">
         <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
@@ -68,7 +68,7 @@
           <li><a class="nav-link scrollto active" href="#hero">ARQUEOLOGIA</a></li>
           <li><a class="nav-link scrollto" href="#about">DANZA</a></li>
           <li><a class="nav-link scrollto" href="#services"></a></li>
-          <li><a class="nav-link scrollto " href="#portfolio">GASTRONOMIA</a></li>
+          <li><a class="nav-link scrollto " href="#portfolio">ARQUEOLOGIA</a></li>
           <li><a class="nav-link scrollto" href="#team">MUSICA</a></li>
           <li class="dropdown"><a href="#"><span>GEOGRAFIA</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
@@ -125,19 +125,19 @@
             <div class="icon-box" data-aos="fade-up">
               <div class="icon"><i class="bx bx-fingerprint"></i></div>
               <h4 class="title"><a href="">AYMARA</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <p class="description">Es una danza tradicional del caserio de cochapata, la danza es aguerrida que muestran coreografias extroviantes</p>
             </div>
 
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="bx bx-gift"></i></div>
               <h4 class="title"><a href="">TUY TUY</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+              <p class="description">Es una danza del centro poblado del San cristobal, sus movimientos son bruscos ya que muestran la rivalidad entre otros pueblos.</p>
             </div>
 
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="bx bx-atom"></i></div>
               <h4 class="title"><a href="">TATASH</a></h4>
-              <p class="description">Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis</p>
+              <p class="description">Es una danza tradicional del caserio de hualgoy, sus movimientos muestran el sembrio de la papa, desde el escogo del terreno hasta terminar la cosecha y tambien muestra la vida cotidiana entre ellos.</p>
             </div>
 
           </div>
@@ -151,33 +151,33 @@
       <div class="container">
 
         <div class="section-title" data-aos="zoom-in">
-          <h2>Why Us</h2>
-          <h3>Why you shoud <span>choose us</span>?</h3>
-          <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
+          <h2>MUSICA</h2>
+          <h3>INSTRUMENTOS <span>TRADICIONALES</span></h3>
+          <p>Sus instrumentos son elaborados a mano con la piel de la vaca</p>
         </div>
 
         <div class="row">
 
           <div class="col-lg-4">
             <div class="box" data-aos="fade-up">
-              <span>01</span>
-              <h4>Lorem Ipsum</h4>
+              <span>CAJA</span>
+              <h4>PINCULLO</h4>
               <p>Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero placeat</p>
             </div>
           </div>
 
           <div class="col-lg-4 mt-4 mt-lg-0">
             <div class="box" data-aos="fade-up" data-aos-delay="100">
-              <span>02</span>
-              <h4>Repellat Nihil</h4>
+              <span>ARPA</span>
+              <h4>VIOLIN</h4>
               <p>Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno para dest</p>
             </div>
           </div>
 
           <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
             <div class="box">
-              <span>03</span>
-              <h4> Ad ad velit qui</h4>
+              <span>ARPA</span>
+              <h4> VIOLIN</h4>
               <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis</p>
             </div>
           </div>
@@ -300,18 +300,18 @@
       <div class="container">
 
         <div class="section-title" data-aos="zoom-in">
-          <h2>Portfolio</h2>
-          <h3>Check our <span>Portfolio</span></h3>
-          <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
+          <h2>ARQUEOLOGIA</h2>
+          <h3>VISITAR <span>LLATA</span></h3>
+          <p>Tiene una diversidad de lugares turisticos y llamavitos</p>
         </div>
 
         <div class="row">
           <div class="col-lg-12 d-flex justify-content-center" data-aos="fade-up">
             <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
+              <li data-filter="*" class="filter-active">VUELTA AL MUNDO</li>
+              <li data-filter=".filter-app">PIRURO</li>
+              <li data-filter=".filter-card">JAGRARAJ</li>
+              <li data-filter=".filter-web">SALINAS</li>
             </ul>
           </div>
         </div>
