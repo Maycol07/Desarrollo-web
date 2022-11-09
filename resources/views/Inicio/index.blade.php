@@ -117,26 +117,26 @@
 
           <div class="col-xl-6 col-lg-6 d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
             <div class="box-heading" data-aos="fade-up">
-              <h4>About us</h4>
-              <h3>Enim quis est voluptatibus aliquid consequatur fugiat</h3>
-              <p>Esse voluptas cumque vel exercitationem. Reiciendis est hic accusamus. Non ipsam et sed minima temporibus laudantium. Soluta voluptate sed facere corporis dolores excepturi. Libero laboriosam sint et id nulla tenetur. Suscipit aut voluptate.</p>
+              <h4>BIENVENIDO</h4>
+              <h3>Tendras una experencia inolvidable</h3>
+              <p>Llata es una ciudad peruana, capital del distrito homónimo y de la provincia de Huamalíes en el departamento de Huánuco. Es conocida popularmente como la Capital folclórica de Huánuco.</p>
             </div>
 
             <div class="icon-box" data-aos="fade-up">
               <div class="icon"><i class="bx bx-fingerprint"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
+              <h4 class="title"><a href="">AYMARA</a></h4>
               <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
             </div>
 
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="bx bx-gift"></i></div>
-              <h4 class="title"><a href="">Nemo Enim</a></h4>
+              <h4 class="title"><a href="">TUY TUY</a></h4>
               <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
             </div>
 
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="bx bx-atom"></i></div>
-              <h4 class="title"><a href="">Dine Pad</a></h4>
+              <h4 class="title"><a href="">TATASH</a></h4>
               <p class="description">Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis</p>
             </div>
 
