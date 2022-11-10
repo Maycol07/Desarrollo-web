@@ -192,9 +192,9 @@
       <div class="container" data-aos="zoom-in">
 
         <div class="text-center">
-          <h3>Call To Action</h3>
-          <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          <a class="cta-btn" href="#">Call To Action</a>
+          <h3>¿Porque visitar Llata?</h3>
+          <p> Tiene una particularidad unica en el mundo, sus acontenicimientos mas relevantes se basa en su folckolre</p>
+          <a class="cta-btn" href="#">LLATA</a>
         </div>
 
       </div>
