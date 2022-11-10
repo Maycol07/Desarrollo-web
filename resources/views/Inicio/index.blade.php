@@ -65,7 +65,7 @@
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="#hero">ARQUEOLOGIA</a></li>
+          <li><a class="nav-link scrollto active" href="#hero">TOURS</a></li>
           <li><a class="nav-link scrollto" href="#about">DANZA</a></li>
           <li><a class="nav-link scrollto" href="#services"></a></li>
           <li><a class="nav-link scrollto " href="#portfolio">ARQUEOLOGIA</a></li>
