@@ -620,8 +620,8 @@
       <div class="container">
 
         <div class="section-title" data-aos="zoom-in">
-          <h2>Contact</h2>
-          <h3>Check our <span>Contact</span> Details</h3>
+          <h2>CONTACTO</h2>
+          <h3>¿Como <span>llegar</span> ?</h3>
           <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
         </div>
 
