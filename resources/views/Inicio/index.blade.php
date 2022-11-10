@@ -418,9 +418,9 @@
       <div class="container">
 
         <div class="section-title" data-aos="zoom-in">
-          <h2>Team</h2>
-          <h3>Our Hard Working <span>Team</span></h3>
-          <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
+          <h2>AUTORIDADES</h2>
+          <h3>Provincia de  <span>HUAMALIES</span></h3>
+          <p>Bienen gestionando obras a favor del mejoramiento del pueblo llatino</p>
         </div>
 
         <div class="row">
@@ -437,8 +437,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Walter White</h4>
-                <span>Chief Executive Officer</span>
+                <h4>Ricardo Tello</h4>
+                <span>Alcalde</span>
               </div>
             </div>
           </div>
@@ -455,8 +455,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Product Manager</span>
+                <h4>Gloria Rojas</h4>
+                <span>TENIENTE ALCALDE</span>
               </div>
             </div>
           </div>
@@ -473,8 +473,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>CTO</span>
+                <h4>RICHARD ESPINOZA</h4>
+                <span>REGIDOR</span>
               </div>
             </div>
           </div>
@@ -491,8 +491,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
+                <h4>MAYCOL CLAUDIO</h4>
+                <span>CIUDADANO</span>
               </div>
             </div>
           </div>
@@ -581,17 +581,15 @@
       </div>
     </section><!-- End Testimonials Section -->
 
-    
-
-    </section><!-- End Pricing Section -->
+  
 
     <!-- ======= F.A.Q Section ======= -->
     <section id="faq" class="faq">
       <div class="container">
 
         <div class="section-title" data-aos="zoom-in">
-          <h2>F.A.Q</h2>
-          <h3>Frequently Asked <span>Questions</span></h3>
+          <h2>PIRURO</h2>
+          <h3>Arqueologia <span>llatina</span></h3>
           <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
         </div>
 
