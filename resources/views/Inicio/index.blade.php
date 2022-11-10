@@ -87,7 +87,7 @@
               <li><a href="#">ARANCAY</a></li>
             </ul>
           </li>
-          <li><a class="nav-link scrollto" href="#contact">CONTACTO</a></li>
+          <li><a class="nav-link scrollto" href="#contact">UBICACION</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -620,9 +620,10 @@
       <div class="container">
 
         <div class="section-title" data-aos="zoom-in">
-          <h2>CONTACTO</h2>
+          <h2>UBICACION</h2>
           <h3>¿Como <span>llegar</span> ?</h3>
-          <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
+          <p>Visite Llata 
+El Distrito peruano de Llata es uno de los once distritos de la Provincia de Huamalíes, ubicada en el Departamento de Huánuco, bajo la administración del Gobierno regional de Huánuco. Limita por el norte con el Distrito de Puños y el Departamento de Áncash; por el sur con la Provincia de Dos de Mayo; por el este con el distrito de Jacas Grande</p>
         </div>
 
         <div>
