@@ -162,7 +162,7 @@
             <div class="box" data-aos="fade-up">
               <span>CAJA</span>
               <h4>PINCULLO</h4>
-              <p>Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero placeat</p>
+              <p>El pincullo, pincuyo, pinquilhue o comúnmente confundido con la quena, aunque sean musicalmente diferentes, es un instrumento musical aerófono, similar a una flauta dulce, ​ ​originario de la cultura Tiwanakota.</p>
             </div>
           </div>
 
@@ -170,7 +170,7 @@
             <div class="box" data-aos="fade-up" data-aos-delay="100">
               <span>ARPA</span>
               <h4>VIOLIN</h4>
-              <p>Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno para dest</p>
+              <p>El arpa y el violín se convirtieron en instrumentos principalmente indígenas, sobre todo en la sierra, donde los violinistas fueron indios y no mestizos. </p>
             </div>
           </div>
 
@@ -178,7 +178,7 @@
             <div class="box" data-aos="fade-up" data-aos-delay="100">
               <span>BANDA</span>
               <h4>CONSTUMBRISTA</h4>
-              <p>Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno para dest</p>
+              <p>La banda de música es una agrupación musical formada por instrumentos de viento o de cuerda y percusión</p>
             </div>
           </div>
 
@@ -206,15 +206,15 @@
 
         <div class="section-title" data-aos="zoom-in">
           <h2>JAGRARAJ</h2>
-          <h3>Our Awesome <span>Services</span></h3>
-          <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
+          <h3>Viajar es  <span> vivir</span></h3>
+          <p> El Inka Nani es uno de los trechos mejor conservados de la red de caminos incas</p>
         </div>
 
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="icon-box" data-aos="zoom-in">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4><a href="">Lorem Ipsum</a></h4>
+              <h4><a href="">Huergasaypk</a></h4>
               <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
             </div>
           </div>
@@ -222,7 +222,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
             <div class="icon-box" data-aos="zoom-in" data-aos-delay="100">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">Sed ut perspiciatis</a></h4>
+              <h4><a href="">Pastoruri</a></h4>
               <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
             </div>
           </div>
@@ -230,7 +230,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
             <div class="icon-box" data-aos="zoom-in" data-aos-delay="200">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4><a href="">Magni Dolores</a></h4>
+              <h4><a href="">Winaf</a></h4>
               <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
             </div>
           </div>
@@ -238,7 +238,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box" data-aos="zoom-in" data-aos-delay="300">
               <div class="icon"><i class="bx bx-world"></i></div>
-              <h4><a href="">Nemo Enim</a></h4>
+              <h4><a href="">Wamananapay</a></h4>
               <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
             </div>
           </div>
@@ -246,16 +246,16 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box" data-aos="zoom-in" data-aos-delay="400">
               <div class="icon"><i class="bx bx-slideshow"></i></div>
-              <h4><a href="">Dele cardo</a></h4>
-              <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+              <h4><a href="">Toro gaga</a></h4>
+              <p>En esta zona arqueologia esta tallado un toro y por el nombre del lugar</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box" data-aos="zoom-in" data-aos-delay="500">
               <div class="icon"><i class="bx bx-arch"></i></div>
-              <h4><a href="">Divera don</a></h4>
-              <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+              <h4><a href="">Anlay</a></h4>
+              <p>Es una de las zonas con mayor atraccion turistico</p>
             </div>
           </div>
 
