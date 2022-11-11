@@ -214,8 +214,8 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="icon-box" data-aos="zoom-in">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4><a href="">Huergasaypk</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <h4><a href="">Huergasayok</a></h4>
+              <p>Es un lugar turistico en el pico mas alto de llata, esta tallado un rio por eso el nombre</p>
             </div>
           </div>
 
@@ -223,7 +223,7 @@
             <div class="icon-box" data-aos="zoom-in" data-aos-delay="100">
               <div class="icon"><i class="bx bx-file"></i></div>
               <h4><a href="">Pastoruri</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <p>Es un lugar turistico y en esta zona esta tallada una oveja y por eso lleva ese nombre</p>
             </div>
           </div>
 
