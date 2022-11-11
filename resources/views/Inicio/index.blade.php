@@ -230,8 +230,8 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
             <div class="icon-box" data-aos="zoom-in" data-aos-delay="200">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4><a href="">Winaf</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <h4><a href="">Winauf</a></h4>
+              <p>Es un lugar turistico llamativo porque esta talado un hombre y una mujer haciendo una referencia de una oracion</p>
             </div>
           </div>
 
