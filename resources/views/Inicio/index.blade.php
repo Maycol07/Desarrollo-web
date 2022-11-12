@@ -277,7 +277,7 @@
         <div class="row">
           <div class="col-lg-12 d-flex justify-content-center" data-aos="fade-up">
             <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">VUELTA AL MUNDO</li>
+              <li data-filter="*" class="filter-active">SACRA</li>
               <li data-filter=".filter-app">PIRURO</li>
               <li data-filter=".filter-card">JAGRARAJ</li>
               <li data-filter=".filter-web">SALINAS</li>
@@ -424,8 +424,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Gloria Rojas</h4>
-                <span>TENIENTE ALCALDE</span>
+                <h4>Laguna </h4>
+                <span>Sacracocha</span>
               </div>
             </div>
           </div>
@@ -442,8 +442,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>RICHARD ESPINOZA</h4>
-                <span>REGIDOR</span>
+                <h4>Laguna</h4>
+                <span>Quepacara</span>
               </div>
             </div>
           </div>
@@ -460,8 +460,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>MAYCOL CLAUDIO</h4>
-                <span>CIUDADANO</span>
+                <h4>Laguna</h4>
+                <span>Anlay</span>
               </div>
             </div>
           </div>
