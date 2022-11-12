@@ -290,8 +290,8 @@
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <img src="{{ asset('home/assets/img/portfolio/portfolio-1.jpg')}}" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>App 1</h4>
-              <p>App</p>
+              <h4>Salinas</h4>
+              <p>Puños</p>
               <a href="{{ asset('home/assets/img/portfolio/portfolio-1.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
@@ -310,8 +310,8 @@
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <img src="{{ asset('home/assets/img/portfolio/portfolio-3.jpg')}}" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>App 2</h4>
-              <p>App</p>
+              <h4>Vuelta al mundo</h4>
+              <p>Llata</p>
               <a href="{{ asset('home/assets/img/portfolio/portfolio-3.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
@@ -320,8 +320,8 @@
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <img src="{{ asset('home/assets/img/portfolio/portfolio-4.jpg')}}" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Card 2</h4>
-              <p>Card</p>
+              <h4>Piruro</h4>
+              <p>Tantamayo</p>
               <a href="{{ asset('home/assets/img/portfolio/portfolio-4.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
@@ -330,8 +330,8 @@
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <img src="{{ asset('home/assets/img/portfolio/portfolio-5.jpg')}}" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Web 2</h4>
-              <p>Web</p>
+              <h4>Ponto</h4>
+              <p>Jircan</p>
               <a href="{{ asset('home/assets/img/portfolio/portfolio-5.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
@@ -340,8 +340,8 @@
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <img src="{{ asset('home/assets/img/portfolio/portfolio-6.jpg')}}" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>App 3</h4>
-              <p>App</p>
+              <h4>Llata</h4>
+              <p>llata</p>
               <a href="{{ asset('home/assets/img/portfolio/portfolio-6.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
@@ -350,8 +350,8 @@
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <img src="{{ asset('home/assets/img/portfolio/portfolio-7.jpg')}}" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Card 1</h4>
-              <p>Card</p>
+              <h4>LLata</h4>
+              <p>Quisq</p>
               <a href="{{ asset('home/assets/img/portfolio/portfolio-7.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 1"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
@@ -360,7 +360,7 @@
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <img src="{{ asset('home/assets/img/portfolio/portfolio-8.jpg')}}" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Card 3</h4>
+              <h4></h4>
               <p>Card</p>
               <a href="{{ asset('home/assets/img/portfolio/portfolio-8.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 3"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
@@ -370,8 +370,8 @@
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <img src="{{ asset('home/assets/img/portfolio/portfolio-9.jpg')}}" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Web 3</h4>
-              <p>Web</p>
+              <h4>INCA NANI</h4>
+              <p>Irma grande</p>
               <a href="{{ asset('home/assets/img/portfolio/portfolio-9.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
@@ -699,8 +699,8 @@ El Distrito peruano de Llata es uno de los once distritos de la Provincia de Hua
 
         <div class="row  justify-content-center">
           <div class="col-lg-6">
-            <h3>Remember</h3>
-            <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p>
+            <h3>Comentarios</h3>
+            <p>Dejenos sus opiniones acerca de esta experiencia.</p>
           </div>
         </div>
 
@@ -725,14 +725,14 @@ El Distrito peruano de Llata es uno de los once distritos de la Provincia de Hua
 
     <div class="container footer-bottom clearfix">
       <div class="copyright">
-        &copy; Copyright <strong><span>Remember</span></strong>. All Rights Reserved
+        &copy; Maycol Richard <strong><span>Claudio</span></strong>. Pinedo
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/remember-free-multipurpose-bootstrap-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        Senati <a href="https://bootstrapmade.com/">2022</a>
       </div>
     </div>
   </footer><!-- End Footer -->
