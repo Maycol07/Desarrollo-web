@@ -387,9 +387,9 @@
       <div class="container">
 
         <div class="section-title" data-aos="zoom-in">
-          <h2>AUTORIDADES</h2>
+          <h2>LAGUNAS</h2>
           <h3>Provincia de  <span>HUAMALIES</span></h3>
-          <p>Bienen gestionando obras a favor del mejoramiento del pueblo llatino</p>
+          <p>Las lagunas mas viistas en la provincia de Huamalies</p>
         </div>
 
         <div class="row">
@@ -406,8 +406,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Ricardo Tello</h4>
-                <span>Alcalde</span>
+                <h4>Laguna</h4>
+                <span>Susucocha</span>
               </div>
             </div>
           </div>
@@ -707,7 +707,7 @@ El Distrito peruano de Llata es uno de los once distritos de la Provincia de Hua
         <div class="row footer-newsletter justify-content-center">
           <div class="col-lg-6">
             <form action="" method="post">
-              <input type="email" name="email" placeholder="Enter your Email"><input type="submit" value="Subscribe">
+              <input type="email" name="email" placeholder="comentar"><input type="submit" value="Enviar comentraio">
             </form>
           </div>
         </div>
