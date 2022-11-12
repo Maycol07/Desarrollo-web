@@ -151,34 +151,37 @@
       <div class="container">
 
         <div class="section-title" data-aos="zoom-in">
-          <h2>MUSICA</h2>
-          <h3>INSTRUMENTOS <span>TRADICIONALES</span></h3>
-          <p></p>
+          <h2>Gastronomia</h2>
+          <h3>Arte culinario <span></span></h3>
+          <p>Llatino</p>
         </div>
 
         <div class="row">
 
           <div class="col-lg-4">
             <div class="box" data-aos="fade-up">
-              <span>CAJA</span>
-              <h4>PINCULLO</h4>
-              <p>El pincullo, pincuyo, pinquilhue o comúnmente confundido con la quena, aunque sean musicalmente diferentes, es un instrumento musical aerófono, similar a una flauta dulce, ​ ​originario de la cultura Tiwanakota.</p>
+              <span>PACHAMANCA</span>
+              <h4>A LA PIEDRA</h4>
+              <p>La pachamanca es un platillo propio de los Andes peruanos, por eso se prepara, principalmente, en las regiones de Ayacucho, Junín, Huancavelica y Huánuco.</p>
+              <img src="https://th.bing.com/th/id/OIP.KD3QKvLKjmokSLaC-8QL2AHaFC?w=243&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7" alt="">
             </div>
           </div>
 
           <div class="col-lg-4 mt-4 mt-lg-0">
             <div class="box" data-aos="fade-up" data-aos-delay="100">
-              <span>ARPA</span>
-              <h4>VIOLIN</h4>
-              <p>El arpa y el violín se convirtieron en instrumentos principalmente indígenas, sobre todo en la sierra, donde los violinistas fueron indios y no mestizos. </p>
+              <span>PICANTE</span>
+              <h4>DE CUY</h4>
+              <p>Es una receta ancestral de la sierra, en llata es uno de los platos mas consumidos. </p>
+              <img src="https://th.bing.com/th/id/OIP.Py1PKP1GJJEbZfUEjIcFnAHaEH?w=297&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7" alt="">
             </div>
           </div>
 
           <div class="col-lg-4 mt-4 mt-lg-0">
             <div class="box" data-aos="fade-up" data-aos-delay="100">
-              <span>BANDA</span>
-              <h4>CONSTUMBRISTA</h4>
-              <p>La banda de música es una agrupación musical formada por instrumentos de viento o de cuerda y percusión</p>
+              <span>CHICCHARRON</span>
+              <h4>DE CHANCHO</h4>
+              <p>Es una receta ancestral, esta hecha a base de la grasa del chancho y su consumo de esta es muy buena en la ciudad de llata.</p>
+              <img src="https://th.bing.com/th/id/OIP.ucygoNqG359bKjJL2f-qKgHaE5?w=301&h=199&c=7&r=0&o=5&dpr=1.25&pid=1.7" alt="">
             </div>
           </div>
 
@@ -205,57 +208,64 @@
       <div class="container">
 
         <div class="section-title" data-aos="zoom-in">
-          <h2>JAGRARAJ</h2>
+          <h2>LLATA</h2>
           <h3>Viajar es  <span> vivir</span></h3>
-          <p> El Inka Nani es uno de los trechos mejor conservados de la red de caminos incas</p>
+          <p> Tine una gran variedad de lugares atractivos </p>
         </div>
 
         <div class="row">
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="icon-box" data-aos="zoom-in">
-              <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4><a href="">Huergasayok</a></h4>
-              <p>Es un lugar turistico en el pico mas alto de llata, esta tallado un rio por eso el nombre</p>
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+        <div class="icon-box" data-aos="zoom-in">
+             
+              <h4><a href="">Tantamayo</a></h4>
+              <p>Los rascacielos de America</p>
+              <img src="https://th.bing.com/th/id/OIP.I4cpeIxyDcDOh9mTKlEdigHaDt?w=332&h=175&c=7&r=0&o=5&dpr=1.25&pid=1.7" alt="">
+
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
             <div class="icon-box" data-aos="zoom-in" data-aos-delay="100">
-              <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">Pastoruri</a></h4>
-              <p>Es un lugar turistico y en esta zona esta tallada una oveja y por eso lleva ese nombre</p>
+            
+              <h4><a href="">Quepacara</a></h4>
+              <p>Es un lugar turistico y en esta zona esta tallada una oveja </p>
+              <img src="https://th.bing.com/th/id/OIP.uSopfYxffWsdPvd8OfAl0AAAAA?w=217&h=152&c=7&r=0&o=5&dpr=1.25&pid=1.7" alt="">
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
             <div class="icon-box" data-aos="zoom-in" data-aos-delay="200">
-              <div class="icon"><i class="bx bx-tachometer"></i></div>
+             
               <h4><a href="">Winauf</a></h4>
-              <p>Es un lugar turistico llamativo porque esta talado un hombre y una mujer haciendo una referencia de una oracion</p>
+              <p>Es un coliseo o una casa de oracion la verdad tiene varias nombres</p>
+              <img src="https://th.bing.com/th/id/OIP.nfSkT338qvllKby_B6ikqwHaFj?w=230&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7" alt="">
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box" data-aos="zoom-in" data-aos-delay="300">
-              <div class="icon"><i class="bx bx-world"></i></div>
+              
               <h4><a href="">Wamananapay</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <p>Fue un sitio de adoracion de los anitugos hombres</p>
+              <img src="https://th.bing.com/th/id/OIP.300Vff9a3YI9VJzG7n7eWQHaFn?w=231&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7" alt="">
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box" data-aos="zoom-in" data-aos-delay="400">
-              <div class="icon"><i class="bx bx-slideshow"></i></div>
-              <h4><a href="">Toro gaga</a></h4>
-              <p>En esta zona arqueologia esta tallado un toro y por el nombre del lugar</p>
+            
+              <h4><a href="">Singa</a></h4>
+              <p>En esta zona arqueologia esta la iglesia matriz de distrito de Singa</p>
+              <img src="https://th.bing.com/th/id/OIP.hVJB9KA4rzPqY8p3iQ0bhgHaFK?w=242&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7" alt="">
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box" data-aos="zoom-in" data-aos-delay="500">
-              <div class="icon"><i class="bx bx-arch"></i></div>
+              
               <h4><a href="">Anlay</a></h4>
-              <p>Es una de las zonas con mayor atraccion turistico</p>
+              <p>Esta es una mezeta y esta tallado en su base un tigre</p>
+              <img src="https://www.bing.com/th?id=OIP.r4yN3m0pq_Wf1nCOrc-COwAAAA&w=185&h=185&c=8&rs=1&qlt=90&o=6&dpr=1.25&pid=3.1&rm=2" alt="">
             </div>
           </div>
 
@@ -482,10 +492,12 @@
               <div class="testimonial-item">
                 <img src="{{ asset('home/assets/img/testimonials/testimonials-1.jpg')}}" class="testimonial-img" alt="">
                 <h3>AYMARA</h3>
-                <h4>Ceo &amp; Founder</h4>
+                <h4>cochapata</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                  La danza es propia del caserio de Cochapata, que viene a ser un anexo de la comunidad campesina de Pampas del Carmen, jurisdicción del distrito de Llata, ubicado en una altitud aproximada de 3,100 m.s.n.m. Su denominación proviene de la conjunción de dos vocablos quechuas.
+Cocha = Laguna
+Pata = Andén, peldaño, margen o borde. 
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -498,7 +510,7 @@
                 <h4>Hualgoy</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                  La danza Tatash del centro poblado La Florida y del anexo de Hualgoy es festiva, alegre y muy dinámica, con movimientos variados y exigentes por el esfuerzo físico que deben realizar los danzantes. Ésta se representa en distintos momentos del año, siendo los principales, las fiestas patronales de cada zona, el 30 de agosto, en el caso del centro poblado de La Florida y el 16 de junio, en el anexo de Hualgoy, donde se celebra a la imagen del Sagrado Corazón de Jesús.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -511,7 +523,7 @@
                 <h4>San Cristobal</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                  La danza Tuy Tuy de San Cristóbal, ha sido premiada desde el año 1968. Sus autoridades comunales han cuidado de promoverla, por lo que están calificados por la ENSF José María Arguedas. Cabe destacar que el expediente técnico para la declaratoria, fue elaborado por la investigadora cultural de la ENSF
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -524,7 +536,7 @@
                 <h4>Morca</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                  Declaran Patrimonio Cultural de la Nación a la danza Huancas de las localidades de Palanca, Irma Grande y Morca, distrito de Llata, provincia de Huamalíes, departamento de Huánuco.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -534,10 +546,10 @@
               <div class="testimonial-item">
                 <img src="{{ asset('home/assets/img/testimonials/testimonials-5.jpg')}}" class="testimonial-img" alt="">
                 <h3>ACHA RRUCU</h3>
-                <h4>Entrepreneur</h4>
+                <h4>Canchapampa</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                  Representa una versión del ruku en la representación burlesca de una corrida de toros. Un toro salvaje (interpretado por una persona) es capturado y sacado de su hábitat natural en las alturas por un grupo de rukus encabezados por un personaje llamado repuntero, quien sería «dueño» del ganado.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -627,7 +639,7 @@ El Distrito peruano de Llata es uno de los once distritos de la Provincia de Hua
         </div>
 
         <div>
-          <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
+          <iframe style="border:0; width: 100%; height: 270px;" src="https://goo.gl/maps/kH2XUJuMxrqefWpx8" frameborder="0" allowfullscreen></iframe>
         </div>
 
         <div class="row mt-5">
