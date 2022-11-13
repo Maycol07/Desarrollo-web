@@ -634,12 +634,11 @@ Pata = Andén, peldaño, margen o borde.
         <div class="section-title" data-aos="zoom-in">
           <h2>UBICACION</h2>
           <h3>¿Como <span>llegar</span> ?</h3>
-          <p>Visite Llata 
-El Distrito peruano de Llata es uno de los once distritos de la Provincia de Huamalíes, ubicada en el Departamento de Huánuco, bajo la administración del Gobierno regional de Huánuco. Limita por el norte con el Distrito de Puños y el Departamento de Áncash; por el sur con la Provincia de Dos de Mayo; por el este con el distrito de Jacas Grande</p>
+          <p>La ciudad de Llata se encuentra localizada dentro de la provincia de Huamalíes, en el departamento de Huánuco. Llata se encuentra ubicada en una meseta que se ve rodeada por colinas y quebradas que embellecen más el paisaje bucólico de la ciudad.</p>
         </div>
 
         <div>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3934.5305224715353!2d-76.81901333467559!3d-9.549453203073734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91a88cafb6e83e95%3A0xef87bcff2730ba44!2sLlata%2010641!5e0!3m2!1ses-419!2spe!4v1668368665643!5m2!1ses-419!2spe" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3934.5305224715353!2d-76.81901333467559!3d-9.549453203073734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91a88cafb6e83e95%3A0xef87bcff2730ba44!2sLlata%2010641!5e0!3m2!1ses-419!2spe!4v1668368665643!5m2!1ses-419!2spe" width="100%" height="500" style="border:10;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
 
         <div class="row mt-5">
@@ -737,7 +736,7 @@ El Distrito peruano de Llata es uno de los once distritos de la Provincia de Hua
 
     <div class="container footer-bottom clearfix">
       <div class="copyright">
-        &copy; Maycol Richard <strong><span>Claudio</span></strong>. Pinedo
+       Maycol Richard <strong><span>Claudio</span></strong> Pinedo
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
