@@ -41,7 +41,7 @@
   <section id="topbar" class="d-flex align-items-center">
     <div class="container d-flex justify-content-center justify-content-md-between">
       <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:contact@example.com">Maycolclaudiopinedo@gmail.com</a></i>
+        <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:contact@example.com">Maycolclaudiopinedo48@gmail.com</a></i>
         <i class="bi bi-phone d-flex align-items-center ms-4"><span>+51 916183260</span></i>
       </div>
       <div class="social-links d-none d-md-flex align-items-center">
@@ -639,7 +639,7 @@ El Distrito peruano de Llata es uno de los once distritos de la Provincia de Hua
         </div>
 
         <div>
-          <iframe style="border:0; width: 100%; height: 270px;" src="https://goo.gl/maps/kH2XUJuMxrqefWpx8" frameborder="0" allowfullscreen></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3934.5305224715353!2d-76.81901333467559!3d-9.549453203073734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91a88cafb6e83e95%3A0xef87bcff2730ba44!2sLlata%2010641!5e0!3m2!1ses-419!2spe!4v1668368665643!5m2!1ses-419!2spe" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
 
         <div class="row mt-5">
@@ -654,7 +654,7 @@ El Distrito peruano de Llata es uno de los once distritos de la Provincia de Hua
 
               <div class="email">
                 <i class="bi bi-envelope"></i>
-                <h4>Email:</h4>
+                <h4>Correo:</h4>
                 <p>Maycolclaudiopinedo@gmail.com</p>
               </div>
 
@@ -676,7 +676,7 @@ El Distrito peruano de Llata es uno de los once distritos de la Provincia de Hua
                   <input type="text" name="name" class="form-control" id="name" placeholder="Nombre" required>
                 </div>
                 <div class="col-md-6 form-group mt-3 mt-md-0">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Email" required>
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Correo" required>
                 </div>
               </div>
               <div class="form-group mt-3">
